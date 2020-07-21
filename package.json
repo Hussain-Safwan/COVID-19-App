@@ -30,7 +30,7 @@
         "express-flash": "git://github.com/RGBboy/express-flash.git",
         "express-session": "^1.16.2",
         "mongodb": "^3.3.0-beta2",
-        "mongoose": "^5.6.9",
+        "mongoose": "^5.7.5",
         "nodemailer": "^6.3.0",
         "nodemailer-smtp-transport": "^2.7.4",
         "passport": "^0.4.0",
